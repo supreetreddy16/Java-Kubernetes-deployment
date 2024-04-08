@@ -1,4 +1,4 @@
-package uk.co.danielbryant.djshopping.productcatalogue.resources;
+package uk.co.bryant.djshopping.productcatalogue.resources;
 
 import com.codahale.metrics.annotation.Timed;
 import com.google.inject.Inject;
